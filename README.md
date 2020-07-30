@@ -9,7 +9,7 @@ Run it on your Android device with Expo at: https://expo.io/@sebasjicha10/movies
 
 Movie browser to search by movie, series, episode and more.
 
-## Used
+## Built with
 
 <ul>
   <li>React Native</li>
