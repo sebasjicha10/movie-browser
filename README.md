@@ -1,4 +1,4 @@
-# Movie Browser Timer 
+# Movie Browser
 
 Try it at: <br />
 Run a web iOS simulator at: https://snack.expo.io/@sebasjicha10/cf826b <br />
